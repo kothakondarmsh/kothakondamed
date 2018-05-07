@@ -161,7 +161,7 @@ public class AdminDao {
 		psmt.setString(5, suppName);
 		psmt.setDate(6, javaSqlDate);
 		
-		psmt.executeQuery();
+		psmt.executeUpdate();
 		
 		System.out.println("Insertion into table completed");
 		

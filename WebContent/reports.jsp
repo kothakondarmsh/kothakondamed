@@ -1,7 +1,8 @@
+<%@page import="java.util.*"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
     <%@page import="com.techm.bean.MedicineBean"%>
-    <%@page import="java.util.*;"%>
+    
 <!DOCTYPE html>
 <html>
 <head>

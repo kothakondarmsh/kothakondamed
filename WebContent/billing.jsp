@@ -1,8 +1,9 @@
+<%@page import="java.util.*"%>
 <%@page import="com.techm.service.CartService"%>
 <%@page import="com.techm.bean.MedicineBean"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1" errorPage="Error.jsp"%>
-<%@page import="java.util.*;"%>
+
 <%-- <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%> --%>
 
 <!DOCTYPE html>
